@@ -17,7 +17,7 @@ assignees: ''
  ### Acceptance Criteria  
    
  ```gherkin
- Given [context]
- When [action]
- Then [outcome]
+ Given a bus stop at Edison Street
+ When the commuter chooses a destination
+ Then the commuter should be able to choose Edison Street.
  ```
